@@ -1,6 +1,6 @@
 # gla-auction-2017
 
-## Contributors :+1:
+## Contributors :shipit:
 ```
 rania.mohamed.sayed@gmail.com
 alexis.grall@laposte.net
